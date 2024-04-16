@@ -77,9 +77,6 @@
 
 
             }
-            Thread.Sleep(2000);
-            Console.Clear();
-
 
             //Execício 5
             int Num2;
@@ -101,10 +98,6 @@
 
 
             }
-
-
-            Thread.Sleep(2000);
-            Console.Clear();
 
 
             //Execício 6
@@ -132,15 +125,12 @@
                 {
                     menor = numeros[i];
 
-                    Console.WriteLine($"O maior número digitado é: {maior}");
-                    Console.WriteLine($"O menor número digitado é: {menor}");
+                    Console.WriteLine($"O maior número digitado pelo usuario é: {maior}");
+                    Console.WriteLine($"O menor número digitado pelo usuario é: {menor}");
                     Console.Clear();
                 }
             }
 
-
-            Thread.Sleep(2000);
-            Console.Clear();
             */
 
             //Execício 7
